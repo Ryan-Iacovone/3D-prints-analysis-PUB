@@ -4,8 +4,6 @@ library(ggthemes)
 library(readxl)
 library(writexl)
 
-#prints <- read_excel("C:/Users/Ryan/Coding Projects/KDL Project/3D Printing analysis/Data/EGR KDL Master 3D Printing List.xlsx")
-
 #Loading in the excel file when 3d printing analysis is set as working directory 
 prints <- read_excel("Data/Example data.xlsx")
 
@@ -38,7 +36,7 @@ ggplot(pies1, aes(x = "", y = percent_NOP, fill = print)) +
   #scale_fill_brewer(palette = "Dark2", name = "Number of People per Group") +
   
   labs(
-    title = "Study Rooms Requests by Group Size"
+    title = "3D print distribution"
   ) +
   
   theme_void()
