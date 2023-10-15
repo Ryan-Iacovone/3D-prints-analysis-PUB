@@ -4,6 +4,4 @@ Transitioning the 3D printing workflow from pen and paper to an online excel she
 
 In order to answer these questions, we obviously need to gather the data. Thankfully transitioning to an online form as I discussed in a separate repository called “PUB-Workflow-3D” made data collecting easy and automatic! Once enough requests were accumulated, I wrote an r program called “3D prints all” to analyze various descriptive statistics. These included frequency graphs to show the most popular print requests and filament color, and average turnaround time from the time of request until we contact the patron that their print was ready. 
 
-# Alternative intro
-
-Performing ad hoc analyis on the performance of our 3D printing program. In order to gather valuable insights and imporve our program I looked at the most common types of prints request and thier colors. On the staff side I investigated how changing our workflow from pen and paper to autmated python scripts and an online form over the past couple of months has impacted our efficiency. Gathering all thisinformation otgether in a succicent reports allows accurate reflection on what's working and what's not in order to improve our process not only for patrons wishing to utilize the program but also for staff ensuring effiecicy and time well spent because we don't have much time to give. 
+Full findings on how transitioning from pen and paper to excel sheets and automation beenfited the 3D printing program can be found in the "3D printing report"! 
