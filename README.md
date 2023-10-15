@@ -1,6 +1,6 @@
 # Ad-hoc Report for 3D Printing Program
  
-## The Questions 
+## The Why 
 
 Transitioning the 3D printing workflow from pen and paper to an online excel sheet allows us to track the performance of our program and answer a variety of relevant questions. Are ample patrons using this program to justify its existence? Are staff able to complete 3D print requests under our specified timeframe? Are certain 3D prints and colors more popular than others? How has the transition to an online form and automated python programs impacted the program? Answers to these questions can help us make informed decisions on the future of the 3D printing program at the library.  
 
