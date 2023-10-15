@@ -6,7 +6,7 @@ Transitioning the 3D printing workflow from pen and paper to an online excel she
 
 ## The Implementation 
 
-In order to answer these questions, we obviously need to gather the data. Thankfully transitioning to an online form as I discussed in a separate repository called “PUB-Workflow-3D” made data collecting easy and automatic! Once enough requests were accumulated, I wrote an r program called “3D prints all” to analyze some descriptive statistics. I created frequency graphs to show the most popular print requests and filament color. I calculated average turnaround time from time of request until we contact the patron that their print was ready. I also calculated the pickup rate of 3D print requests, so out of all the requests that were completed how many get picked up by their patron, among others. 
+In order to answer these questions, we obviously need to gather the data. Thankfully transitioning to an online form as I discussed in a separate repository called “PUB-Workflow-3D” made data collecting easy and automatic! Once enough requests were accumulated, I wrote an r program called “3D prints all” to analyze various descriptive statistics. These included frequency graphs to show the most popular print requests and filament color, and average turnaround time from the time of request until we contact the patron that their print was ready. I also calculated the pickup rate of 3D print requests, so out of all the requests that were completed how many get picked up by their patron, among others. 
 
 ## The Findings 
 
